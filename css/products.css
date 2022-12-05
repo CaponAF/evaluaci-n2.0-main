@@ -42,8 +42,9 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 #icon{
   height: 100%;
-  width: 30px;
+  width: 20px;
   align-items:center;
+  font-size: 20px;
 }
 
 nav{
