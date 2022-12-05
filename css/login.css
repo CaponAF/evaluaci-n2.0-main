@@ -15,33 +15,24 @@ main{
     align-items: center;
     width: 100vw;
     height: 100vh;
-    /* border: 1px solid red; */
 }
 
 .login{
     display: flex;
     flex-direction: row;
     background-color: rgb(22, 7, 73);
-    /* border: 1px solid red; */
     height: 20em;
     width: 40em;
     box-sizing: border-box;
-    /* margin: 20em; */
-
-
 }
 
 #izquierda{
-    /* border: 1px solid blue; */
     background-color: orange;
     width: 40%;
     background-image: url("img/drift.jpg");
     background-size: cover;
     background-position:top ;
     padding: 15px;
-
-
-
 }
 #whait{
     width: 20%;
@@ -53,18 +44,12 @@ main{
 img {
     height: 100%;
     width: 100%;
-
 }
-
 #derecha{
     display: flex;
     flex-direction: column;
-    /* border: 1px solid yellow; */
     width: 60%;
-    height: auto;
-
-   
-    
+    height: auto; 
 }
 #container-dere{
     display: flex;
@@ -100,8 +85,8 @@ footer{
     text-decoration: none;
     font-size: 16px;
     border-radius: 5PX;
-    /* text-align: center; */
 }
+
 #aea{
     text-decoration: none;
 }
@@ -111,20 +96,16 @@ footer{
     display: flex;
     flex-direction: row;
     align-items: center;
- 
     font-size: 15px;
-    /* border: 1px solid yellow; */
 }
 #check{
     width: 1.5rem;
     height: 1rem;
-
 }
 #mini1{
    width: 100%;
 }
 #mini01{
-    /* border: 1px solid red; */
     display: flex;
     height: 3rem;
     width: 85%;
@@ -132,7 +113,6 @@ footer{
     align-items: center;
 }
 #mini2{
-    /* border: 1px solid red; */
     display: flex;
     height: 5rem;
     justify-content: space-between;
@@ -151,7 +131,6 @@ border-radius: 4px;
     justify-content: center;
     height: 100%;
     width: 50%;
-    /* border: 1px solid white; */
 }
 #contbur{
     display: flex;
@@ -174,19 +153,11 @@ border-radius: 4px;
 
 
 
-
-/* .login #tafaq {
-
-    width: 150px;
-    height: 100%;
-    
-}
 #derecha {
     flex-direction: column;
     display: flex;
     align-items: center;
     border: 1px solid red;
     width: calc(100% - 20em);
-    box-sizing: ;
-} */
+} 
 
